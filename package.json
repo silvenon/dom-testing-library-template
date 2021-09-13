@@ -12,8 +12,9 @@
     "extends": "react-app"
   },
   "dependencies": {
+    "@babel/preset-env": "^7.15.6",
+    "@babel/preset-react": "^7.14.5",
     "@testing-library/dom": "latest",
-    "@testing-library/jest-dom": "latest",
     "@testing-library/react": "latest",
     "jest": "latest",
     "react": "latest",
